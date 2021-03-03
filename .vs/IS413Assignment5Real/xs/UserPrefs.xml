@@ -1,0 +1,56 @@
+﻿<Properties StartupConfiguration="{6161AD61-FB63-4012-A70C-A803030463EF}|Default">
+  <MonoDevelop.Ide.ItemProperties.IS413Assignment5Real PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="IS413Assignment5Real/Models/EFBooksRepository.cs">
+    <Files>
+      <File FileName="IS413Assignment5Real/Models/BookDBContext.cs" Line="21" Column="1" />
+      <File FileName="IS413Assignment5Real/Infrastructure/PageLinkTagHelper.cs" />
+      <File FileName="IS413Assignment5Real/Views/Home/Index.cshtml" Line="3" Column="1" />
+      <File FileName="IS413Assignment5Real/Components/NavigationMenuViewComponent.cs" />
+      <File FileName="IS413Assignment5Real/Startup.cs" Line="71" Column="41" />
+      <File FileName="IS413Assignment5Real/Views/Home/BookList.cshtml" Line="1" Column="1" />
+      <File FileName="IS413Assignment5Real/Controllers/HomeController.cs" Line="41" Column="48" />
+      <File FileName="IS413Assignment5Real/Views/Shared/Components/NavigationMenu/Default.cshtml" Line="9" Column="90" />
+      <File FileName="IS413Assignment5Real/Models/SeedData.cs" />
+      <File FileName="IS413Assignment5Real/Program.cs" Line="1" Column="1" />
+      <File FileName="IS413Assignment5Real/appsettings.json" Line="11" Column="40" />
+      <File FileName="IS413Assignment5Real/Views/Shared/_Layout.cshtml" Line="35" Column="1" />
+      <File FileName="IS413Assignment5Real/Views/Shared/BookList.cshtml" Line="35" Column="7" />
+      <File FileName="IS413Assignment5Real/Views/Shared/_ValidationScriptsPartial.cshtml" Line="1" Column="1" />
+      <File FileName="IS413Assignment5Real/Models/Book.cs" Line="1" Column="1" />
+      <File FileName="IS413Assignment5Real/Models/EFBooksRepository.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="IS413Assignment5Real" expanded="True">
+            <Node name="IS413Assignment5Real" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Components" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Infrastructure" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="EFBooksRepository.cs" selected="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>docker-compose.dcproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
